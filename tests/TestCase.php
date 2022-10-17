@@ -2,9 +2,9 @@
 
 namespace Girishl\LaravelExample\Tests;
 
+use Girishl\LaravelExample\LaravelExampleServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Girishl\LaravelExample\LaravelExampleServiceProvider;
 
 class TestCase extends Orchestra
 {

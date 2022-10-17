@@ -2,9 +2,9 @@
 
 namespace Girishl\LaravelExample;
 
+use Girishl\LaravelExample\Commands\LaravelExampleCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Girishl\LaravelExample\Commands\LaravelExampleCommand;
 
 class LaravelExampleServiceProvider extends PackageServiceProvider
 {
