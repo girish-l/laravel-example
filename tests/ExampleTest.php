@@ -5,12 +5,10 @@ namespace Girishl\LaravelExample\Tests;
 class ExampleTest extends TestCase
 {
     /**
-    * @test
-    */
+     * @test
+     */
     public function it_can_test()
     {
         $this->assertTrue(true);
     }
 }
-
-
